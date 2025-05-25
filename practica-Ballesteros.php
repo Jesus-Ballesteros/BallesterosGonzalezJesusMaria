@@ -3,7 +3,7 @@
  * Scrip para la Tarea 5 de DaAW para documentacion de archivos PHP
  * @file practica-Ballesteros.php
  *  @author Jesus Ballesteros
- *  @version 1.0.0
+ *  @version 2.0.0
  *  @package tarea5Daw
  *
  */
